@@ -1,0 +1,1 @@
+Hello, I am Daksh Shinde, a first-year Artificial Intelligence and Data Science student. I am learning programming, data science, Git, GitHub, and other technologies as part of my academic and personal development. This repository is created to document my learning journey and practice using GitHub.
